@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+nltk
+pandas
+tqdm
+torch

@@ -1,8 +1,10 @@
-# ASER-EEG
-Eventuality Entailment Graph built on ASER 
+# ASER-EEG: Eventuality Entailment Graph built on ASER 
+ 
+## Setup
 
-Code and data resources would be released soon. 
-
+ *Probase: Conceptualize the term from Microsoft Concept graph 
+ *WordNet: Extract the verb hypernym and entailment relation from WordNet
+ *ASER: cleaned skeleton words for each eventuality in the ASER core version ([ASER EEG Node](https://drive.google.com/file/d/1Sx-CzCaE46QBjoCLHHk8IPWZvxt6VJyb/view?usp=sharing))
 
 ## Citation
 
