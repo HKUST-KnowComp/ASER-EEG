@@ -2,9 +2,13 @@
  
 ## Setup
 
- *Probase: Conceptualize the term from Microsoft Concept graph 
- *WordNet: Extract the verb hypernym and entailment relation from WordNet
- *ASER: cleaned skeleton words for each eventuality in the ASER core version ([ASER EEG Node](https://drive.google.com/file/d/1Sx-CzCaE46QBjoCLHHk8IPWZvxt6VJyb/view?usp=sharing))
+ * Probase: Conceptualize the term from Microsoft Concept graph 
+ * WordNet: Extract the verb hypernym and entailment relation from WordNet
+ * ASER: cleaned skeleton words for each eventuality in the ASER core version ([ASER EEG Node](https://drive.google.com/file/d/1Sx-CzCaE46QBjoCLHHk8IPWZvxt6VJyb/view?usp=sharing))
+
+## TODO
+
+ * Add more cleaned pipeline code and revised relation edge dataset.  
 
 ## Citation
 
